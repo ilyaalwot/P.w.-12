@@ -1,0 +1,10 @@
+1 2026-06-22T10:00:00Z [INFO] AuthModule User login successful
+2 2026-06-22T10:01:00Z [DEBUG] PaymentModule Payment validation started
+3 2026-06-22T10:02:00Z [ERROR] DatabaseModule Database connection failed
+4 2026-06-22T10:03:00Z [WARNING] SecurityModule Suspicious login attempt
+5 2026-06-22T10:04:00Z [CRITICAL] CoreModule System failure detected
+6 2026-06-22T10:05:00Z [INFO] ReportModule Daily report created
+7 2026-06-22T10:06:00Z [ERROR] NetworkModule Timeout while sending request
+8 2026-06-22T10:07:00Z [DEBUG] CacheModule Cache refreshed
+9 2026-06-22T10:08:00Z [WARNING] StorageModule Disk usage is high
+10 2026-06-22T10:09:00Z [CRITICAL] BackupModule Backup process failed
